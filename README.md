@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adp-797
-- 👀 I’m interested in Wireless networks, Machine learning and Image processing.
+- 👀 Interested in Wireless networks, Machine learning and Image processing.
 - 📫 How to reach me: adarshpranavam@gmail.com
 
 <!---
